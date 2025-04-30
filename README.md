@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi There
+
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,python)](https://skillicons.dev)
+
+### Currently a student and participate in Team SCREAM Robotics
+#### ⠀
+# Projects that I am currently doing
+- SCREAM Website.
+- Looking into making a fun program of some sort.
+- Learning more skills.
 
 <!--
 **mashed26/mashed26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
