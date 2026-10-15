@@ -1,6 +1,6 @@
 ## Hi There
 
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,python,arduino,cpp,github,idea,vscode,arch,windows,apple)](https://skillicons.dev)
 
 ### Currently a student and participate in Team SCREAM Robotics
 #### ⠀
